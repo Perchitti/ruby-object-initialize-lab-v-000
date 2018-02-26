@@ -20,4 +20,5 @@ def breed
 end
 end
 
-fido.instance_variable_get(:@breed, "Pug")
+fido = Dog.new
+fido.breed = "Pug"
