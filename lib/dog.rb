@@ -20,5 +20,4 @@ def breed
 end
 end
 
-fido = Dog.new
-fido.breed = "Pug"
+fido = Dog.new("Pug")
