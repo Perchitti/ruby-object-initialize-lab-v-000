@@ -19,3 +19,5 @@ def breed
   @breed
 end
 end
+
+fido.instance_variable_get(:@breed, "Pug")
