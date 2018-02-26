@@ -17,6 +17,8 @@ end
 
 def breed
   @breed
+else
+  "Mutt"
 end
 end
 
