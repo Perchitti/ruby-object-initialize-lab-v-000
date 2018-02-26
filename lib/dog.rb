@@ -21,3 +21,4 @@ end
 end
 
 fido = Dog.new("Pug")
+fido.breed
